@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib All Hassan",
+    "image_url": "https://i.ibb.co.com/spJtz7jm/shakib.jpg",
+    "country": "Bangladesh",
+    "role": "All Rounder",
+    "rating": 87,
+    "price": 150000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 2,
+    "name": "Ab de Viliar's",
+    "image_url": "https://i.ibb.co.com/gbjgv3MH/abde.jpg",
+    "country": "South Africa",
+    "role": "Batting All Rounder",
+    "rating": 81,
+    "price": 135000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 3,
+    "name": "Moean Ali",
+    "image_url": "https://i.ibb.co.com/xKG4b2Dq/ali.jpg",
+    "country": "England",
+    "role": "Bowling All Rounder",
+    "rating": 78,
+    "price": 120000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 4,
+    "name": "Hashim Amla",
+    "image_url": "https://i.ibb.co.com/L7sq90Y/amla.jpg",
+    "country": "South Africa",
+    "role": "Only Batter",
+    "rating": 90,
+    "price": 160000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 5,
+    "name": "Train Boult",
+    "image_url": "https://i.ibb.co.com/rRvrSFZ0/boult.jpg",
+    "country": "New Zealand",
+    "role": "Only Batter",
+    "rating": 84,
+    "price": 140000,
+    "batting_style": "Left Handed"
+  },
+  {
+    "id": 6,
+    "name": "Joush Buttler",
+    "image_url": "https://i.ibb.co.com/wh5sW1F8/buttler.jpg",
+    "country": "England",
+    "role": "All Rounder",
+    "rating": 83,
+    "price": 145000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 7,
+    "name": "Mustafizur",
+    "image_url": "https://i.ibb.co.com/0jmMY45G/fizz.jpg",
+    "country": "Bangladesh",
+    "role": "Only Bowler",
+    "rating": 79,
+    "price": 125000,
+    "batting_style": "Left Handed"
+  },
+  {
+    "id": 8,
+    "name": "Chrish Gayle",
+    "image_url": "https://i.ibb.co.com/bRWkfg88/gayle.jpg",
+    "country": "Wes Indies",
+    "role": "Only Bowler",
+    "rating": 74,
+    "price": 95000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 9,
+    "name": "Alex Hales",
+    "image_url": "https://i.ibb.co.com/wk2qYv9/hales.jpg",
+    "country": "England",
+    "role": "Only Batter",
+    "rating": 88,
+    "price": 155000,
+    "batting_style": "Left Handed"
+  },
+  {
+    "id": 10,
+    "name": "Jp Duminy",
+    "image_url": "https://i.ibb.co.com/G30qFTpY/jp.jpg",
+    "country": "South Africa",
+    "role": "Batting All Rounder",
+    "rating": 80,
+    "price": 130000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 11,
+    "name": "Glenn maxwell",
+    "image_url": "https://i.ibb.co.com/7dvFfKDv/maxwell.jpg",
+    "country": "Australia",
+    "role": "Bowling All Rounder",
+    "rating": 82,
+    "price": 138000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 12,
+    "name": "Andre russell",
+    "image_url": "https://i.ibb.co.com/RTjC2WsV/russel.jpg",
+    "country": "West Indies",
+    "role": "Only Bowler",
+    "rating": 76,
+    "price": 110000,
+    "batting_style": "Left Handed"
+  },
+  {
+    "id": 13,
+    "name": "Kumar Sangakkara",
+    "image_url": "https://i.ibb.co.com/s9YDbmwx/sangakkara.jpg",
+    "country": "Sri Lanka",
+    "role": "All Rounder",
+    "rating": 85,
+    "price": 148000,
+    "batting_style": "Right Handed"
+  },
+  {
+    "id": 14,
+    "name": "Steve Smith",
+    "image_url": "https://i.ibb.co.com/pBhCmrHQ/smith.jpg",
+    "country": "Australia",
+    "role": "Only Batter",
+    "rating": 89,
+    "price": 158000,
+    "batting_style": "Left Handed"
+  },
+  {
+    "id": 15,
+    "name": "Shane Watson",
+    "image_url": "https://i.ibb.co.com/KcG5Xs8f/watson.jpg",
+    "country": "Australia",
+    "role": "Bowling All Rounder",
+    "rating": 77,
+    "price": 118000,
+    "batting_style": "Right Handed"
+  }
+]
