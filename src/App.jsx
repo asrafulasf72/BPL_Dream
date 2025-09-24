@@ -5,6 +5,7 @@ import AvailablePlayers from './Componant/AvailablePlayers'
 import Banner from './Componant/Banner'
 import Navbar from './Componant/Navbar'
 import SelecetedPlayers from './Componant/SelecetedPlayers'
+import Fotter from './Componant/Fotter'
 
 const fetchPlayers =async()=>{
   const url='../public/players.json'
@@ -14,7 +15,7 @@ const fetchPlayers =async()=>{
 
 function App() {
 
-  const [toggle, setToggle]=useState(false)
+  const [toggle, setToggle]=useState(true)
   const promisePlayers=fetchPlayers();
   return (
     <>
@@ -32,6 +33,7 @@ function App() {
         <AvailablePlayers promisePlayers={promisePlayers}></AvailablePlayers>
       </Suspense> : <SelecetedPlayers></SelecetedPlayers>
        }
+       <Fotter></Fotter>
      
       
     </>
