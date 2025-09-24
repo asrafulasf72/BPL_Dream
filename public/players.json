@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Shakib All Hassan",
+    "name": "Shakib Al Hassan",
     "image_url": "https://i.ibb.co.com/spJtz7jm/shakib.jpg",
     "country": "Bangladesh",
     "role": "All Rounder",
@@ -73,7 +73,7 @@
     "id": 8,
     "name": "Chrish Gayle",
     "image_url": "https://i.ibb.co.com/bRWkfg88/gayle.jpg",
-    "country": "Wes Indies",
+    "country": "West Indies",
     "role": "Only Bowler",
     "rating": 74,
     "price": 95000,
